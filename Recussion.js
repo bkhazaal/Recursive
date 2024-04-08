@@ -7,5 +7,4 @@ function recussion (n) {
     }
 }
 
-const num = 5;
-console.log(recursion(num));
+
