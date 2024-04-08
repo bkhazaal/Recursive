@@ -1,4 +1,4 @@
-function recussion (n) {
+function recursion(n) {
     if (n === 0 || n === 1) {
         return 1;
 
@@ -6,5 +6,6 @@ function recussion (n) {
         return n * recursion(n - 1);
     }
 }
+
 
 
